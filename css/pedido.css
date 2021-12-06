@@ -1,12 +1,12 @@
 body{
 	font-family: arial, helevetica;
-	background: #e8e8e8;
+	background: #26cabd;
 }
 
 .menu{
 	list-style: none;
 	padding: 0;
-	background: #092327;
+	background: #8adbe7;
 	width: 90%;
 	max-width: 1000px;
 	margin: auto;
@@ -14,7 +14,7 @@ body{
 
 .menu li a{
 	text-decoration: none;
-	color: white;
+	color: rgb(73, 14, 14);
 	padding: 20px;
 	display: block;
 }
